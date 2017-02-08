@@ -1,0 +1,16 @@
+{
+  "header": {
+    "welcome": "Bienvenido a Oniros Group"
+  },
+  "main-nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "clients": "Clientes",
+    "team": "Equipo",
+    "contact": "Contactenos"
+  },
+  "services": {
+    "header": "Servicios"
+  }
+}
