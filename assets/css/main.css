@@ -1,0 +1,11 @@
+.main-nav li a {
+    margin: 10px;
+}
+
+.contact-info-box i, .contact-info-box div {
+    float: left;
+}
+
+span.inline {
+    display: inline;
+}

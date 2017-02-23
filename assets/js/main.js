@@ -1,7 +1,7 @@
 i18next
   .use(i18nextXHRBackend)
   .init({
-    lng: 'en',
+    lng: 'es',
     fallbackLng: 'en',
     load: 'languageOnly',
     preload: ['en','es'],

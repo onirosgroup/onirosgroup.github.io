@@ -1,6 +1,8 @@
 {
   "header": {
-    "welcome": "Bienvenido a Oniros Group"
+    "welcome": "Bienvenido a Oniros Group",
+    "slogan": "Creando tus sueños en el espacio digital.",
+    "start": "Empesar"
   },
   "main-nav": {
     "home": "Inicio",
@@ -8,9 +10,29 @@
     "portfolio": "Portafolio",
     "clients": "Clientes",
     "team": "Equipo",
-    "contact": "Contactenos"
+    "contact": "Contacto"
   },
-  "services": {
-    "header": "Servicios"
+  "services-section": {
+    "header": "Servicios",
+    "title": "Ofrecemos un servicio excepcional con complementos gratuitos."
+  },
+  "team-section": {
+    "header": "equipo",
+    "title": "Echa una ojeada a nuestro equipo. No mordemos :)."
+  },
+  "business-talking-section": {
+    "title": "Hablemos de negocios"
+  },
+  "contact-section": {
+    "phone": "teléfono:",
+    "phone-data": "+53 55740653",
+    "email": "correo:",
+    "email-data": "onirosgroup@gamil.com",
+    "hours": "horario:",
+    "hours-weekdays": "Lunes - Viernes:",
+    "hours-sat": "Sábado:",
+    "hours-sun": "Domingo:",
+    "hours-sat-title": " Desde cuando se trabaja los sábados?",
+    "hours-sun-title": " Mejor no preguntar."
   }
 }
